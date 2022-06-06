@@ -92,5 +92,6 @@ declare module 'node-bitstamp' {
     ETH_USD,
     ETH_EUR,
     ETH_BTC,
+    USDT_EUR,
   }
 }
